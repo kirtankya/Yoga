@@ -1,0 +1,499 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.y1 {
+    width: 100%;
+    height: 50px;
+    background-color: #f2f2f2;
+    position: fixed;
+    z-index: 100;
+}
+
+.y2 {
+    width: 100%;
+    height: 600px;
+    background-image: url(assets/hgh.png);
+}
+
+.y3 {
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    background-image: url(assets/dffder.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+.y4 {
+    display: inline-block;
+    position: relative;
+    top: 100px;
+
+}
+
+.y5 {
+    position: relative;
+    bottom: 150px;
+    left: 300px;
+}
+
+.y6 {
+    font-weight: 700;
+    font-size: 30px;
+    position: relative;
+    left: 350px;
+    bottom: 160px;
+}
+
+.y7 {
+    width: 350px;
+    text-align: center;
+    position: relative;
+    left: 250px;
+    bottom: 140px;
+}
+
+.y8 {
+    position: relative;
+    left: 350px;
+    bottom: 120px;
+}
+
+.y9 {
+    color: black;
+}
+
+.y10 {
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    border: 2px solid black;
+    font-weight: bold;
+    position: relative;
+    left: 340px;
+    bottom: 100px;
+}
+
+.y10:hover {
+    background-color: black;
+    color: white;
+}
+
+.y11 {
+    width: 100%;
+    height: 400px;
+    background-color: #dfc327;
+}
+
+.y16 {
+    display: inline-block;
+    position: relative;
+    left: 20px;
+    top: 50px;
+}
+
+.y12 {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    border-radius: 20px;
+    position: relative;
+    left: 20px;
+}
+
+.y13 {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    border-radius: 20px;
+    position: relative;
+    left: 40px;
+}
+
+.y14 {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    border-radius: 20px;
+    position: relative;
+    left: 60px;
+}
+
+.y15 {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    border-radius: 20px;
+    position: relative;
+    left: 80px;
+}
+
+.y17 {
+    position: relative;
+    top: 25px;
+    left: 25px;
+}
+
+.y18 {
+    width: 100px;
+    height: 100px;
+    background-color: #dfc327;
+    border-radius: 100px;
+    position: relative;
+    top: 50px;
+    left: 100px;
+}
+
+.y19 {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    position: relative;
+    top: 70px;
+}
+
+.y20 {
+    width: 100%;
+    height: 500px;
+    background-image: url(assets/hgh.png);
+}
+
+.y21 {
+    display: inline-block;
+    width: 600px;
+    height: 500px;
+    background-image: url(assets/fgfgfg.jpg);
+    background-size: cover;
+}
+
+.y22 {
+    display: inline-block;
+    position: relative;
+    bottom: 80px;
+    left: 100px;
+}
+
+.y23 {
+    font-size: 40px;
+    width: 300px;
+}
+
+.y24 {
+    list-style: disc;
+    position: relative;
+    left: 50px;
+}
+
+.y26 {
+    color: black;
+}
+
+.y27 {
+    width: 250px;
+    height: 50px;
+    border-radius: 30px;
+    border: 2px solid #404040;
+    color: #404040;
+    font-weight: bold;
+}
+
+.y27:hover {
+    background-color: #404040;
+    color: white;
+    font-weight: bold;
+
+}
+
+.y28 {
+    display: inline-block;
+    width: 100%;
+    height: 550px;
+    background-color: #dfc327;
+}
+
+.y39 {
+    display: inline-block;
+}
+
+.y29 {
+    width: 220px;
+    height: 400px;
+    background-color: #f2f2f2;
+    border-radius: 20px;
+    display: inline-block;
+    position: relative;
+    left: 50px;
+    top: 100px;
+    margin-left: 20px;
+}
+
+.y34 {
+    width: 150px;
+    height: 150px;
+    background-color: #dfc327;
+    border-radius: 150px;
+    text-align: center;
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+
+.y35 {
+    width: 130px;
+    height: 130px;
+    background-image: url(assets/6eff5e48-2c41-d08b-c65b-a944fa3af1ac.jpg);
+    border-radius: 130px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+
+.y36 {
+    font-weight: 700;
+}
+
+.y37 {
+    width: 150px;
+    text-align: center;
+}
+
+.y38 {
+    color: black;
+}
+
+.y40 {
+    width: 130px;
+    height: 130px;
+    background-image: url(assets/42b829de-7d0b-0ded-b752-3cade6e99db4.jpg);
+    border-radius: 130px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+
+.y41 {
+    width: 130px;
+    height: 130px;
+    background-image: url(assets/72f227b3-95c6-9c71-01e0-22b2626b426d.jpg);
+    border-radius: 130px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+
+.y42 {
+    width: 130px;
+    height: 130px;
+    background-image: url(assets/8502e348-4d2e-9824-71ce-c251d46d8ff5.jpg);
+    border-radius: 130px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+
+.y43 {
+    width: 130px;
+    height: 130px;
+    background-image: url(assets/566.jpg);
+    border-radius: 130px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+
+.y44 {
+    display: inline-block;
+    width: 100%;
+    height: 550px;
+    background-image: url(assets/hgh.png);
+}
+
+.y45 {
+    text-align: center;
+    width: 400px;
+    display: inline-block;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    left: 200px;
+}
+
+.y46 {
+    width: 150px;
+    height: 50px;
+    font-weight: bold;
+    color: white;
+    background-color: #404040;
+    border: none;
+    border-radius: 30px;
+}
+
+.y46:hover {
+    background-color: white;
+    font-weight: bold;
+    color: #404040;
+    border: 2px solid #404040;
+}
+
+.y47 {
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    background-image: url(assets/tytyy.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    left: 445px;
+    top: 50px;
+}
+
+.y48 {
+    width: 100%;
+    height: 600px;
+    background-color: #dfc327;
+}
+
+.y49 {
+    display: inline-block;
+    width: 600px;
+    height: 500px;
+    background-image: url(assets/802a67dc-af5a-4768-b0d6-8e3b0d2cee19.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+.y50 {
+    display: inline-block;
+    width: 500px;
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    bottom: 40px;
+}
+
+.y51 {
+    color: black;
+}
+
+.y52 {
+    width: 100%;
+    height: 500px;
+    background-image: url(assets/hgh.png);
+}
+
+.y53 {
+    text-align: center;
+    width: 500px;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    left: 100px;
+    bottom: 100px;
+}
+
+.y54 {
+    color: #dfc327;
+    position: relative;
+    left: 20px;
+    font-size: 30px;
+}
+
+.y55 {
+    font-size: 30px;
+}
+
+.y56 {
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    border: 2px solid #404040;
+    background-color: #404040;
+    color: white;
+    font-weight: bold;
+}
+
+.y56:hover {
+    background-color: white;
+    color: #404040;
+}
+
+.y57 {
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    background-image: url(assets/dfdfdf.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 300px;
+}
+
+.y58 {
+    width: 100%;
+    height: 500px;
+    background-color: #dfc327;
+}
+.y59{
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+.y60 {
+    width: 350px;
+    height: 40px;
+}
+
+.h1 {
+    font-size: 35px;
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+
+.y61 {
+    width: 350px;
+    height: 100px;
+}
+.y62{
+    width: 150px;
+    height: 50px;
+    background-color: #dfc327;
+    color: white;
+    border-radius: 30px;
+    font-weight: bold;
+}
+.y62:hover{
+    background-color: white;
+    color: #dfc327;
+    font-weight: bold;
+}
